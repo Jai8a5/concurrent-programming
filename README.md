@@ -3,5 +3,5 @@
 
 | Name Surname (initials) | GUID                                     |
 | ----------------------- | ---------------------------------------- |
-| Jan Michalski           | "984480EC-0166-49C3-B9F0-CBA6A8C22F59"   |
+| Jan Michalski           | "A87F506B-A81D-46AB-8A08-EE3F2AE613CC"   |
 |                         |                                          |
